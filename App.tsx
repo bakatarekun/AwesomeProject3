@@ -78,7 +78,7 @@ function App(): JSX.Element {
           }}>
           <Section title="Step One">
             Edit <Text style={styles.highlight}>App.tsx</Text> to change this
-            screen and then come back to see your edits. Test 12345ABC.
+            screen and then come back to see your edits. Test.
           </Section>
           <Section title="See Your Changes">
             <ReloadInstructions />
